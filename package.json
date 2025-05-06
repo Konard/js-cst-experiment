@@ -1,0 +1,19 @@
+{
+  "name": "js-cst-experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Konard/js-cst-experiment",
+  "author": "Konstantin Diachenko <drakonard@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "chevrotain": "^11.0.3",
+    "tree-sitter": "^0.22.4",
+    "tree-sitter-javascript": "^0.23.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
